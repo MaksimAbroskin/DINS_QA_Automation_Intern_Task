@@ -7,7 +7,7 @@ This application execute 4 tests:
 1) POST new User;
 2) GET this user by User ID;
 3) Try to PUT changes for userdata to nonexistent user;
-4) Try to delete nonexistent user.
+4) Try to DELETE nonexistent user.
 
 #### Application launch ####
 You have two ways.
